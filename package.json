@@ -9,9 +9,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Kohei Tsuchiya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutti2612/stylelint-todo.git"
+  },
+  "keywords": [
+    "stylelint",
+    "todo"
+  ],
+  "author": "Kohei Tsuchiya <doyahirohira@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tutti2612/stylelint-todo/issues"
+  },
+  "homepage": "https://github.com/tutti2612/stylelint-todo#readme",
   "peerDependencies": {
     "stylelint": "^14.0.0"
   }
