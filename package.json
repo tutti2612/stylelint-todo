@@ -1,6 +1,6 @@
 {
   "name": "stylelint-todo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "stylelint todo generator",
   "main": "index.js",
   "bin": {
