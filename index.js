@@ -7,7 +7,7 @@ const [, , ...inputs] = process.argv;
 
 if (!inputs.length || inputs.includes("-h") || inputs.includes("--help")) {
   const msg = `
-  Usage: stylelint-todo-generator.js [input]
+  Usage: stylelint-todo [input]
   Input: File(s) or glob(s).
   `;
 
